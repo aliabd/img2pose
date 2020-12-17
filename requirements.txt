@@ -15,6 +15,8 @@ decorator==4.4.2
 defusedxml==0.6.0
 easydict==1.9
 entrypoints==0.3
+gdown
+gradio
 google-auth==1.24.0
 google-auth-oauthlib==0.4.2
 grpcio==1.34.0
@@ -73,7 +75,7 @@ Send2Trash==1.5.0
 six==1.15.0
 tensorboard==2.4.0
 tensorboard-plugin-wit==1.7.0
-terminado==0.9.1
+terminado
 testpath==0.4.4
 torch==1.7.1
 torchvision==0.8.2
